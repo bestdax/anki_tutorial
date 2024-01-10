@@ -9,7 +9,7 @@ class MyAnki:
     def __init__(self, profile_name: str) -> None:
         self.pm = ProfileManager(ProfileManager._default_base())
         self.pm.setupMeta()
-        self.pm.openProfile('tutorial')
+        self.pm.openProfile(profile_name)
         self.col = Collection(self.pm.collectionPath())
 
     def new_note_to_collection(self, deck_name: str, model_name: str,
