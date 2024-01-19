@@ -1,9 +1,13 @@
-be
+is
+am
+are
+was
+were
 the
 and
 of
 to
-i
+I
 you
 it
 that
@@ -3710,6 +3714,7 @@ technician
 intensity
 spelling
 urgent
+offset
 hers
 mentality
 precaution
